@@ -1,2 +1,2 @@
 # MyGit
-Testing git features
+Testing git-git features
